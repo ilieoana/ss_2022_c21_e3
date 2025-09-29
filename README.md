@@ -1,6 +1,6 @@
-# Spring Security Fundamentals - Security Integration Tests - Part 2
+# Spring Security Fundamentals - Security Integration Tests
 
-This project is based on **Lesson 22 - Security Integration Tests - Part 2**
+This project is based on **Lesson 21 - Security Integration TestS**
 the [Spring Security Fundamentals](https://www.youtube.com/playlist?list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP) tutorial
 series by **Laur Spilca** on YouTube.
 
@@ -8,8 +8,9 @@ series by **Laur Spilca** on YouTube.
 
 - **Author:** Laur Spilca
 - **Series:** Spring Security Fundamentals
-- **Lesson:** Security Integration Tests - Part 2
-- **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=onD_fyhy58o)
+- **Lesson:** Security Integration Tests
+- **Link:
+  ** [Watch on YouTube](https://www.youtube.com/watch?v=87CB4jUx8UE&list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP&index=22)
 
 ## 🛠️ What I Did
 
