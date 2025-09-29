@@ -1,6 +1,6 @@
 # Spring Security Fundamentals - Security Integration Tests
 
-This project is based on **Lesson 21 - Security Integration TestS**
+This project is based on **Lesson 21 - Security Integration Test**
 the [Spring Security Fundamentals](https://www.youtube.com/playlist?list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP) tutorial
 series by **Laur Spilca** on YouTube.
 
